@@ -7,6 +7,7 @@ A list of JavaScript frameworks or rendering libraries that don't use a virtual 
 - [Choo](https://choo.io/)
 - [Radi](https://radi.js.org/)
 - [Svelte](https://svelte.dev/)
+- [LitElement](https://lit-element.polymer-project.org/)
 
 ## Libraries
 
