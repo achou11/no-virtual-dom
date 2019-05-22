@@ -10,7 +10,7 @@ A list of JavaScript frameworks or rendering libraries that don't use a virtual 
 
 ## Libraries
 
-_None yet_
+- [LitElement](https://lit-element.polymer-project.org/)
 
 ## Why not use a virtual DOM?
 
