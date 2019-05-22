@@ -8,13 +8,9 @@ A list of JavaScript frameworks or rendering libraries that don't use a virtual 
 - [Radi](https://radi.js.org/)
 - [Svelte](https://svelte.dev/)
 
-## Component Libraries
+## Libraries
 
 - [LitElement](https://lit-element.polymer-project.org/)
-
-## Rendering Libraries
-
-_None yet_
 
 ## Why not use a virtual DOM?
 
