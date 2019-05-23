@@ -10,7 +10,10 @@ A list of JavaScript frameworks or rendering libraries that don't use a virtual 
 
 ## Libraries
 
-- [LitElement](https://lit-element.polymer-project.org/)
+- [LitElement](https://lit-element.polymer-project.org/) - A simple base class for creating fast, lightweight web components
+- [LitHtml](https://lit-html.polymer-project.org/) - An efficient, expressive, extensible HTML templating library for JavaScript
+- [nanohtml](https://github.com/choojs/nanohtml) - HTML template strings for the Browser with support for Server Side Rendering in Node.
+- [hui](https://github.com/hyperdivision/hui) - Generic UI component class
 
 ## Why not use a virtual DOM?
 
