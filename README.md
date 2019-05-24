@@ -14,7 +14,7 @@ A list of JavaScript frameworks or rendering libraries that don't use a virtual 
 
 ## Why not use a virtual DOM?
 
-_WIP_
+- [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
 
 ## Todos:
 
