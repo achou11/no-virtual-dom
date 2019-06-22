@@ -6,6 +6,7 @@ A list of JavaScript frameworks or rendering libraries that don't use a virtual 
 
 - [Choo](https://choo.io/)
 - [Radi](https://radi.js.org/)
+- [Surplus](https://github.com/adamhaile/surplus) - High performance JSX web views for S.js applications
 - [Svelte](https://svelte.dev/)
 
 ## Libraries
