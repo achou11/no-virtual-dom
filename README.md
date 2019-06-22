@@ -4,10 +4,10 @@ A list of JavaScript frameworks or rendering libraries that don't use a virtual 
 
 ## Frameworks
 
-- [Choo](https://choo.io/)
-- [Radi](https://radi.js.org/)
+- [Choo](https://choo.io/) - A 4kb framework for creating sturdy frontend applications
+- [Radi](https://radi.js.org/) - Micro-rendering view framework
 - [Surplus](https://github.com/adamhaile/surplus) - High performance JSX web views for S.js applications
-- [Svelte](https://svelte.dev/)
+- [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps
 
 ## Libraries
 
