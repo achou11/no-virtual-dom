@@ -20,10 +20,11 @@ A list of JavaScript frameworks or rendering libraries that don't use a virtual 
 
 - [Virtual DOM is pure overhead](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
 
-## Todos:
+## What even is a virtual DOM?
 
-- Add links that explain what the virtual DOM is.
-- Add links for reasoning or advantages of not using a virtual DOM.
+- [Understanding the Virtual DOM](https://bitsofco.de/understanding-the-virtual-dom/)
+- [Virtual DOM Explained](https://www.pluralsight.com/guides/virtual-dom-explained)
+- [What is the Virtual DOM](https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom)
 
 ## Contribute
 
