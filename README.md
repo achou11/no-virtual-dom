@@ -8,6 +8,7 @@ A list of JavaScript frameworks or rendering libraries that don't use a virtual 
 - [Radi](https://radi.js.org/) - Micro-rendering view framework
 - [Surplus](https://github.com/adamhaile/surplus) - High performance JSX web views for S.js applications
 - [Svelte](https://svelte.dev/) - Cybernetically enhanced web apps
+- [SolidJS](https://www.solidjs.com) - Simple and performant reactivity for building user interfaces
 
 ## Libraries
 
