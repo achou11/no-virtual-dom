@@ -17,6 +17,7 @@ A list of JavaScript frameworks or rendering libraries that don't use a virtual 
 - [nanohtml](https://github.com/choojs/nanohtml) - HTML template strings for the Browser with support for Server Side Rendering in Node.
 - [Solid](https://github.com/ryansolid/solid) - A declarative JavaScript library for creating user interfaces.
 - [Tonic](https://tonicframework.dev) - A low profile component framework.
+- [Sprae](https://github.com/dy/sprae) – A tiny library for DOM hydration via : attributes
 
 ## Why not use a virtual DOM?
 
